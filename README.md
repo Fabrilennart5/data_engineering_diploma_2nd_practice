@@ -1,5 +1,5 @@
 # SQLite + Power Bi
-<img align="center" width="1000" height="600" src="https://blog.devart.com/wp-content/uploads/2023/02/State_based_or_Migration_based.jpg">
+<img align="center" width="1000" height="500" src="https://blog.devart.com/wp-content/uploads/2023/02/State_based_or_Migration_based.jpg">
 
 ## Skills Showcased in This Project 💪
 
